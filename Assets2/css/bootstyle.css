@@ -1,0 +1,33 @@
+body{
+	background-image: url("../images/light.png");
+}
+
+footer{
+	background:#666666;
+	text-align: center;
+	padding: 30px;
+	color: #fff;
+	position:fixed;	
+	bottom:0px;
+	font-size: 12px;
+	width: 100%;
+	border-style: solid;
+	border-width: 5px 0px 0px 0px;
+	border-color: #4aaaa5;
+
+}
+.floatleft{
+	float:left;
+}
+
+.social_pic {
+	width: 50px; 
+	height: 50px;
+	/*float: left;*/
+	display:inline-block;
+	margin:10px;
+	}
+
+.inline {
+	display: inline;
+}
